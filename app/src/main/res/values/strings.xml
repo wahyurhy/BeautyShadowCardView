@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeautyShadowCardView</string>
+    <string name="beauty_shadow_card">Beauty Shadow Card</string>
+    <string name="this_is_card">this is card</string>
+</resources>
